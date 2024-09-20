@@ -1,4 +1,4 @@
-![Am a Tech enthusiast, a Ui/Ux designer and a software engineer student]((https://x.com/KomoireAshiraf/header_photo))
+![Am a Tech enthusiast, a Ui/Ux designer and a software engineer student]([https://x.com/KomoireAshiraf/header_photo])
 
 # Hi there 👋, my name is Komoire
 ## Am a Tech enthusiast, a Ui/Ux designer and a software engineer student

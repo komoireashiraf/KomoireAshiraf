@@ -7,10 +7,7 @@ I’m a passionate UI/UX designer and a software engineering student at Uganda C
 ##Skills and Experience 
 JS / HTML / CSS / PYTHON / Figma / Adobe XD / Git / SQL / Problem Solving / Communication
 
-- 🔭 I’m currently working on this page. 
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/komoire)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/komoireashiraf/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/komoireashiraf)  
 
 
 

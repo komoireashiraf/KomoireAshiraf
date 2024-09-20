@@ -1,5 +1,15 @@
-Hello! I’m Komoire Ashiraf, a UI/UX designer, tech enthusiast, and software engineering student at Uganda Christian University. 
-I’m passionate about blending design and technology to create seamless, engaging user experiences. Always eager to learn and explore new trends in tech and design!
+### Hi there 👋, my name is Komoire
+#### Am a Tech enthusiast, a Ui/Ux designer and a software engineer student
+![Am a Tech enthusiast, a Ui/Ux designer and a software engineer student](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=komoire)](https://github.com/anuraghazra/github-readme-stats)
+I’m a passionate UI/UX designer and a software engineering student at Uganda Christian University. I love exploring the intersection of technology and design, and I’m always eager to learn new skills and tackle exciting projects.
+
+Skills: JS / HTML / CSS / PYTHON / Figma / Adobe XD / Git / SQL / Problem Solving / Communication
+
+- 🔭 I’m currently working on this page. 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/komoire)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/komoireashiraf/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/komoireashiraf)  
+
+
 

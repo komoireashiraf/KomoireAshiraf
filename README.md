@@ -5,7 +5,11 @@
 I’m a passionate UI/UX designer and a software engineering student at Uganda Christian University. I love exploring the intersection of technology and design, and I’m always eager to learn new skills and tackle exciting projects.
 
 ##Skills and Experience 
-JS / HTML / CSS / PYTHON / Figma / Adobe XD / Git / SQL / Problem Solving / Communication
+💻 JS, HTML, CSS, PYTHON 
+👨🏾‍💻 Figma, AdobeXD / 
+⚛️ Git, SQL, Reactive
+🧠 Problem Solving 
+🗣️ Communication
 
 
 

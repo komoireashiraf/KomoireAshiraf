@@ -24,8 +24,7 @@ Skills:
 [<img src='https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white'>](https://snapchat.com/t/2kRQCf2E)
 # My Stats 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KomoireAshiraf&show_icons=true&theme=radical) 
-# Languages 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KomoireAshiraf&layout=compact&theme=radical) 
+
 # My Progress
 ![GitHub Streak](https://streak-stats.demolab.com?user=KomoireAshiraf&theme=radical)]
 

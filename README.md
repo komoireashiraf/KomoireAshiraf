@@ -8,7 +8,7 @@ Skills:
 # My Expertise 
 
 <img src='https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue'> <img src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white'> <img src='https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E'> <img src='https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'> <img src=' https://img.shields.io/badge/Kotlin-B125EA?style=for-the-badge&logo=kotlin&logoColor=white'> 
-
+ 
 # Robotics 
 
 # Learning 
@@ -24,6 +24,6 @@ Skills:
 [<img src='https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white'>](https://www.canva.com/komoireashiraf)
 [<img src='https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white'>](https://snapchat.com/t/2kRQCf2E)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KomoireAshiraf&show_icons=true&theme=radical) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KomoireAshiraf&layout=compact&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KomoireAshiraf&show_icons=true&theme=radical) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KomoireAshiraf&layout=compact&theme=radical) [![GitHub Streak](https://streak-stats.demolab.com?user=KomoireAshiraf&theme=radical)](https://git.io/streak-stats)
 
 

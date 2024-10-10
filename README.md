@@ -5,9 +5,16 @@ I’m a passionate UI/UX designer and a software engineering student at Uganda C
 Skills: 
 💻 JS, HTML, CSS, PYTHON |👨🏾‍💻 Figma, AdobeXD |⚛️ Git, SQL, Reactive |🧠 Problem Solving |🗣️ Communication |
 
+# My Expertise 
 
+<img src='https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue'> <img src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white'> <img src='https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E'> <img src='https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'> <img src=' https://img.shields.io/badge/Kotlin-B125EA?style=for-the-badge&logo=kotlin&logoColor=white'> 
 
-<img src='https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E'> <img src='https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue'> <img src='https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'> <img src='https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white'> <img src='https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white'> <img src='https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white'> 
+# Robotics 
+
+# Learning 
+<img src='https://img.shields.io/badge/CISCO-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white'> <img src='https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347'> <img src='https://img.shields.io/badge/coding%20ninjas-DD6620?style=for-the-badge&logo=codingninjas&logoColor=white'> <img src='https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white'> <img src='https://img.shields.io/badge/Exercism-009CAB?style=for-the-badge&logo=exercism&logoColor=white'> <img src='https://img.shields.io/badge/Exercism-009CAB?style=for-the-badge&logo=exercism&logoColor=white'>
+
+# Connect with me here 
 [<img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white'>](https://github.com/komoire)
 [<img src='https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white'>](https://twitter.com/komoireashiraf)
 [<img src='https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white'>](https://x.com/komoireashiraf)
@@ -17,6 +24,6 @@ Skills:
 [<img src='https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white'>](https://www.canva.com/komoireashiraf)
 [<img src='https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white'>](https://snapchat.com/t/2kRQCf2E)
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KomoireAshiraf&show_icons=true&theme=radical) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KomoireAshiraf&layout=compact&theme=radical)
 
 

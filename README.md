@@ -19,9 +19,8 @@ Skills:
 [<img src='https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white'>](https://x.com/komoireashiraf)
 [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'>](https://www.linkedin.com/in/komoireashiraf)
 [<img src='https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white'>](https://www.behance.net/komoireashiraf)
-[<img src='https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white'>](https://join.slack.com/t/webandmobilea-ib61691/shared_invite/zt-2sbmd20qs-yy_SmBdVmVcmSMb1h8fTUg)
+[<img src='https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white'>](https://join.slack.com/t/webandmobilea-ib61691/shared_invite/zt-2sbmd20qs-yy_SmBdVmVcmSMb1h8fTUg) [<img src='https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white'>](https://snapchat.com/t/2kRQCf2E)
 
-[<img src='https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white'>](https://snapchat.com/t/2kRQCf2E)
 # My Stats 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KomoireAshiraf&show_icons=true&theme=radical) 
 

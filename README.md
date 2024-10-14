@@ -25,6 +25,6 @@ Skills:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KomoireAshiraf&show_icons=true&theme=radical) 
 
 # My Progress
-![GitHub Streak](https://streak-stats.demolab.com?user=KomoireAshiraf&theme=radical)]
+![GitHub Streak](https://streak-stats.demolab.com?user=KomoireAshiraf&theme=radical)
 
 

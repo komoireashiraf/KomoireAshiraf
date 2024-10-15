@@ -1,4 +1,4 @@
-Hi there 👋, My Name is Komoire, Am a Tech enthusiast, a Ui/Ux designer and a software engineer student. YOLO :yolo:
+Hi there 👋, My Name is Komoire, Am a Tech enthusiast, a Ui/Ux designer and a software engineer student. :yolo:
 
 I’m a passionate UI/UX designer and a software engineering student at Uganda Christian University. I love exploring the intersection of technology and design, and I’m always eager to learn new skills and tackle exciting projects.
 

@@ -3,7 +3,7 @@ Hi there 👋, My Name is Komoire, Am a Tech enthusiast, a Ui/Ux designer and a 
 I’m a passionate UI/UX designer and a software engineering student at Uganda Christian University. I love exploring the intersection of technology and design, and I’m always eager to learn new skills and tackle exciting projects.
 
 Skills: 
-💻 JS, HTML, CSS, PYTHON |👨🏾‍💻 Figma, AdobeXD |⚛️ Git, SQL, Reactive |🧠 Problem Solving |🗣️ Communication |
+💻 JS, HTML, CSS, PYTHON |👨🏾‍💻 Figma, AdobeXD |⚛️ Git, SQL, React |🧠 Problem Solving |🗣️ Communication |
 
 # My Expertise 
 

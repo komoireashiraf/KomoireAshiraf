@@ -1,6 +1,6 @@
 Hi there 👋, My Name is Komoire Ashiraf, Am a Tech enthusiast, a Ui/Ux designer and a software engineer student.
 
-I’m a passionate UI/UX designer and a software engineering student at Uganda Christian University. I love exploring the intersection of technology and design, and I’m always eager to learn new skills and tackle exciting projects.
+I’m a passionate UI/UX design and Frontend engineering, I am an information systems student at Uganda Christain University. I love exploring the intersection of technology and design, and I’m always eager to learn new skills and tackle exciting projects.
 
 Skills: 
 💻 JS, HTML, CSS, PYTHON |👨🏾‍💻 Figma, AdobeXD |⚛️ Git, SQL, React |🧠 Problem Solving |🗣️ Communication 

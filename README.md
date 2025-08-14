@@ -26,9 +26,6 @@ Skills:
 # My Stats
 ![komoire's GitHub stats](https://github-readme-stats.vercel.app/api?username=KomoireAshiraf&show_icons=true&theme=radical) 
 
-# My Streaks
-![GitHub Streak](https://streak-stats.demolab.com?user=KomoireAshiraf&theme=radical) 
-
 # My Most Used Languages
 <img  alt="my stats" align = "left" width = "47%" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=komoireashiraf&layout=compact&bg_color=ffffff00&text_color=ffffff"/> 
 

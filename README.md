@@ -26,5 +26,6 @@ Skills:
 # My Stats
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/komoireashiraf?cardType=level&preferLogin=false)](https://git.io/awesome-stats-card)<img  alt="my stats" align = "left" width = "47%" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=komoireashiraf&layout=compact&bg_color=ffffff00&text_color=ffffff"/> 
 
+![](https://nirzak-streak-stats.vercel.app/?user=komoireashiraf&theme=dark&hide_border=true)<br/>
 
 

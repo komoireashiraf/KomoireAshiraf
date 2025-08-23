@@ -24,7 +24,7 @@ Skills:
 [<img src='https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white'>](https://join.slack.com/t/webandmobilea-ib61691/shared_invite/zt-2sbmd20qs-yy_SmBdVmVcmSMb1h8fTUg) [<img src='https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white'>](https://snapchat.com/t/2kRQCf2E)
 
 # My Stats
-![komoire's GitHub stats](https://github-readme-stats.vercel.app/api?username=KomoireAshiraf&show_icons=true&theme=radical) 
+![komoire's GitHub stats](https://github-readme-stats.vercel.app/api?username=komoireashiraf&show_icons=true&theme=radical) 
 
 # My Most Used Languages
 <img  alt="my stats" align = "left" width = "47%" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=komoireashiraf&layout=compact&bg_color=ffffff00&text_color=ffffff"/> 

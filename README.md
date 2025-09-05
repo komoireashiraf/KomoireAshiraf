@@ -43,4 +43,3 @@ I’m passionate about crafting **beautiful, user-friendly interfaces** and buil
 ## 📊 GitHub Stats  
 
 ![](https://nirzak-streak-stats.vercel.app/?user=komoireashiraf&theme=dark&hide_border=true)<br/>
-![](https://github.com/komoireashiraf/code-squad-badges/raw/main/code-squad-badges/open-source-contributor.svg)
